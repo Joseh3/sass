@@ -1,0 +1,55 @@
+// variables
+
+$primary-color:rgb(141, 141, 235);
+$gutter:15px;
+$color-primario: #55A;
+$color-secundario: #6B6;
+$color-texto: #452396;
+
+$espaciado-estandar: 10px;
+$espaciado-doble: 20px;
+
+$fuente-normal: 1em;
+$fuente-pequena: 0.8em;
+$fuente-grande: 1.4em;
+
+$tipografia-general: arial, verdana, sans-serif;
+$tipografia-alternativa: 'Times New Roman', Times, serif;
+
+body{
+    background-color: $primary-color;
+    color: $color-texto;
+    font-family: $tipografia-general;
+
+}
+
+p{
+    color: $color-texto;
+    padding-left:$gutter;
+    
+
+}
+
+span{
+color: $primary-color;
+
+}
+
+a{
+color: $primary-color;
+
+}
+
+h2{
+
+    color:red;
+
+}
+
+
+
+
+
+
+
+

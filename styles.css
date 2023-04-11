@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(141, 141, 235);
+  color: #452396;
+  font-family: arial, verdana, sans-serif;
+}
+
+p {
+  color: #452396;
+  padding-left: 15px;
+}
+
+span {
+  color: rgb(141, 141, 235);
+}
+
+a {
+  color: rgb(141, 141, 235);
+}
+
+h2 {
+  color: red;
+}/*# sourceMappingURL=styles.css.map */
